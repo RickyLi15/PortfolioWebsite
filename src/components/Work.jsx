@@ -1,7 +1,4 @@
 import React from 'react'
-import FitNess from '../assets/Fitness.jpeg'
-import realEstate from '../assets/realestate.jpeg'
-import WorkImg from '../assets/workImg.jpeg'
 import ROne from '../assets/ResumeProject1.jpg'
 import RTwo from '../assets/ResumeProject2.jpg'
 import RThree from '../assets/ResumeProject3.jpg'
@@ -10,7 +7,7 @@ import Prediction from '../assets/Prediction.jpeg'
 
 const Work = () => {
   return (
-    <div name='work' className='w-full mid:h-screen text-gray-300 bg-[#0a192f]'>
+    <div name='work' className='w-full mid:h-screen text-gray-300 bg-[#000080]'>
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className="pb-8">
           <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600'>Work</p>
