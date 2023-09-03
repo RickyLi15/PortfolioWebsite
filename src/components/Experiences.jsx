@@ -2,7 +2,7 @@ import React from 'react'
 
 const Experiences = () => {
   return (
-    <div name='experiences' className='w-full h-screen bg-[#000080] text-gray-300'>
+    <div name='experiences' className=' w-full  bg-[#000080] text-gray-300 h-[85rem]'>
         <div className='flex flex-col justify-center items-center w-full h-full'>
             <div className='max-w-[1000px] w-full px-4 grid grid-cols-2 gap-8'>
                 <div className='sm:text-right pb-8 pl-4'>
@@ -42,7 +42,7 @@ improved student performance in course in class of over 500 students.
              <p>Computing Instructor</p>
                     <p>June 2022 - Aug 2022</p>
                 </div>
-                <div>
+                <div className='h-90'>
                     <ul>
                         <li>
                         • Planned curriculums and taught lessons to students in I4C Summer Academy’s AI4ALL, CompSciConnect,
